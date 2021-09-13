@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://www.noyobdunyo.ml/</loc>
+	<lastmod>2021-05-17T11:52:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.noyobdunyo.ml/main</loc>
+	<lastmod>2021-05-17T11:52:51+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.noyobdunyo.ml/about</loc>
+	<lastmod>2021-05-17T11:52:55+01:00</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>https://www.noyobdunyo.ml/news</loc>
+	<lastmod>2021-05-17T11:52:54+01:00</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>https://www.noyobdunyo.ml/weird</loc>
+	<lastmod>2021-05-17T11:52:54+01:00</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>https://www.noyobdunyo.ml/science</loc>
+	<lastmod>2021-05-17T11:52:54+01:00</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>https://www.noyobdunyo.ml/publications</loc>
+	<lastmod>2021-05-17T11:52:58+01:00</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>https://www.noyobdunyo.ml/contacts</loc>
+	<lastmod>2021-05-17T11:52:55+01:00</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>https://www.noyobdunyo.ml/online-obuna</loc>
+	<lastmod>2021-05-17T11:52:56+01:00</lastmod>
+	<priority>0.5</priority>
+</url>
+</urlset>
