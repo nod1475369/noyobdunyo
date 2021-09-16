@@ -41,7 +41,6 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
         ]]>
       </content:encoded>
     </item>
-	 <!— Another Article (Each Article must be represented as an <item>)  -->
     <item>
       <title>Liquid metal robots-fantastical into reality</title>
       <link>https://noyobdunyo.ml/Liquid-metal-robots-en</link>
